@@ -1,0 +1,20 @@
+{
+  "name": "FluentUI",
+  "version": "0.0.1",
+  "description": "Fluent Widgets for Hybrid Mobile Development",
+  "homepage": "https://github.com/FluentUI/FluentUI",
+  "bugs": {
+    "url": "https://github.com/FluentUI/FluentUI/issues"
+  },
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Jason Merino"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "~1.2.7",
+    "snapsvg": "~0.1.0"
+  }
+}

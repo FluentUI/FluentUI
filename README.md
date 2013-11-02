@@ -10,9 +10,22 @@ Clone the repo.
 git clone https://github.com/FluentUI/FluentUI.git
 ```
 
-Maneuver into the `FluentUI` directory and install Node.js packages.
+Navigate into the `FluentUI` directory.
 
 ```bash
 cd FluentUI
+```
+
+Next make sure you have the `grunt-cli` installed globally.
+
+```bash
+npm install -g grunt-cli
+```
+
+Install Node.js packages.
+
+```bash
 npm install
 ```
+
+That's it for now.
